@@ -8,12 +8,12 @@
 ### Humidity Information: Obtain humidity levels alongside temperature details.
 ### Location Input: Enter the name of a country, state, or city to retrieve weather data.
 
-##Technologies Used
+## Technologies Used
 
 ### Weather API: The app fetches data from WeatherAPI.com to retrieve weather details.
 ### Frontend: Built using HTML, CSS, and JavaScript for a simple and intuitive user interface.
 
-##Usage
+## Usage
 
 ### Clone the repository or download the source code.
 ### Open index.html in a web browser.
